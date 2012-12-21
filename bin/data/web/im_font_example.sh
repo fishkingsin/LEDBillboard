@@ -1,0 +1,1 @@
+convert -size 320x100 xc:lightblue -font myriad -pointsize 72 -tile pattern:checkerboard -annotate +28+68 'Anthony' font_tile.jpg
